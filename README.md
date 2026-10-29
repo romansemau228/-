@@ -30,13 +30,13 @@ My main interests are **software engineering, game development, and web technolo
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romansemau228&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romansemau228&layout=compact&theme=github_dark&hide_border=true)
 
 ### ⭐ Most Popular Repository
 
-![Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&theme=github_dark&hide_border=true)
+![Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=romansemau228&repo=YOUR_REPOSITORY&theme=github_dark&hide_border=true)
 
 ---
 
